@@ -43,3 +43,6 @@ I hope you're ready to get started! Below is the outline for this course—each 
     - Additional Tips
     - Practice with Pramp
     - Next Steps
+
+## Resources
+- [BigOcheatsheet](http://bigocheatsheet.com/)
