@@ -46,3 +46,4 @@ I hope you're ready to get started! Below is the outline for this course—each 
 
 ## Resources
 - [BigOcheatsheet](http://bigocheatsheet.com/)
+- [List operations run time](https://wiki.python.org/moin/TimeComplexity)
